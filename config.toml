@@ -1,0 +1,4 @@
+baseURL = "https://furniturten.vercel.app/"
+languageCode = "en-us"
+title = "Furnitur"
+theme = "hugo-theme-minos"
